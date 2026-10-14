@@ -1,0 +1,16 @@
+C:\Users\Max\OneDrive\Desktop\Personal Projects\Yahara-Software\AdventurerPath\obj\Debug\net10.0\AdventurerPath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max\OneDrive\Desktop\Personal Projects\Yahara-Software\AdventurerPath\obj\Debug\net10.0\AdventurerPath.AssemblyInfoInputs.cache
+C:\Users\Max\OneDrive\Desktop\Personal Projects\Yahara-Software\AdventurerPath\obj\Debug\net10.0\AdventurerPath.AssemblyInfo.cs
+C:\Users\Max\OneDrive\Desktop\Personal Projects\Yahara-Software\AdventurerPath\obj\Debug\net10.0\AdventurerPath.csproj.CoreCompileInputs.cache
+C:\Users\Max\OneDrive\Desktop\Personal Projects\Yahara-Software\AdventurerPath\obj\Debug\net10.0\AdventurerPath.sourcelink.json
+C:\Users\Max\OneDrive\Desktop\Personal Projects\Yahara-Software\AdventurerPath\bin\Debug\net10.0\AdventurerPath.exe
+C:\Users\Max\OneDrive\Desktop\Personal Projects\Yahara-Software\AdventurerPath\bin\Debug\net10.0\AdventurerPath.deps.json
+C:\Users\Max\OneDrive\Desktop\Personal Projects\Yahara-Software\AdventurerPath\bin\Debug\net10.0\AdventurerPath.runtimeconfig.json
+C:\Users\Max\OneDrive\Desktop\Personal Projects\Yahara-Software\AdventurerPath\bin\Debug\net10.0\AdventurerPath.dll
+C:\Users\Max\OneDrive\Desktop\Personal Projects\Yahara-Software\AdventurerPath\bin\Debug\net10.0\AdventurerPath.pdb
+C:\Users\Max\OneDrive\Desktop\Personal Projects\Yahara-Software\AdventurerPath\obj\Debug\net10.0\AdventurerPath.dll
+C:\Users\Max\OneDrive\Desktop\Personal Projects\Yahara-Software\AdventurerPath\obj\Debug\net10.0\refint\AdventurerPath.dll
+C:\Users\Max\OneDrive\Desktop\Personal Projects\Yahara-Software\AdventurerPath\obj\Debug\net10.0\AdventurerPath.pdb
+C:\Users\Max\OneDrive\Desktop\Personal Projects\Yahara-Software\AdventurerPath\obj\Debug\net10.0\AdventurerPath.genruntimeconfig.cache
+C:\Users\Max\OneDrive\Desktop\Personal Projects\Yahara-Software\AdventurerPath\obj\Debug\net10.0\ref\AdventurerPath.dll
+C:\Users\Max\OneDrive\Desktop\Personal Projects\Yahara-Software\AdventurerPath\obj\Debug\net10.0\Adventur.C1605A51.Up2Date
