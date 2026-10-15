@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AdventurerPath")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7fb51740e03bbe20433a4a9e914d89352be6e4f0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc97b82a8035f011bf1b1e2cbe0768c8990d7a5d")]
 [assembly: System.Reflection.AssemblyProductAttribute("AdventurerPath")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AdventurerPath")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,2 @@
+C:\Users\Max\OneDrive\Desktop\Personal Projects\Yahara-Software\AdventurerPath\bin\Release\net10.0\osx-x64\publish\AdventurerPath.pdb
+C:\Users\Max\OneDrive\Desktop\Personal Projects\Yahara-Software\AdventurerPath\bin\Release\net10.0\osx-x64\publish\AdventurerPath
