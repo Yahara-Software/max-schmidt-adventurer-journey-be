@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AdventurerPath.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+884992db146895e70d55030a10733f14f4fabaf2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c4a30e49fd8eb2cef6e2b3a860fb0ff6b25d4bc7")]
 [assembly: System.Reflection.AssemblyProductAttribute("AdventurerPath.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AdventurerPath.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

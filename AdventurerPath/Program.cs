@@ -96,7 +96,7 @@ public class AdventurerPathProgram
         {
             user.parseDirections(inputDirections);
             double distance = user.getDistanceFromStart();
-            Console.WriteLine($"\nFollowing this path you will have traveled a distance of {distance} units from the start!\n");
+            Console.WriteLine($"\nFollowing this path you will have traveled a distance of {distance} steps from the start!\n");
         }
         catch (ArgumentException e)
         {
