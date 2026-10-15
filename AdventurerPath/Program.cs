@@ -15,7 +15,7 @@ public class Adventurer
 
         // If the directions string is not entirely valid, throw an exception and request the user to input a new string
         var matchesLength = matches.Sum(match => match.Length);
-        if (matchesLength != directions.Length)
+        if (directions.Length == 0 || matchesLength != directions.Length)
         {
             throw new ArgumentException("Invalid directions: Check your string formatting and try again!");
         }
@@ -57,6 +57,12 @@ public class Adventurer
         yPos = 0;
     }
 
+    // Not used in the program, but necessary for testing to ensure creation of adventurer is successful
+    public (int, int) getCurrentPosition()
+    {
+        return (xPos, yPos);
+    }
+
     // Returns the euclidean distance from the start (0,0) to the currently held (x,y)
     public double getDistanceFromStart() {
         if (xPos == 0 && yPos == 0)
@@ -72,6 +78,7 @@ public class Adventurer
 // Runs the Adventurer Path Program
 public class AdventurerPathProgram
 {
+    // Helper method used to start the user process and initialize an Adventurer
     private static Adventurer initializeUser() 
     {
         Console.WriteLine("Welcome to Adventurer Path! Discover how far you would travel by providing your directions!");
@@ -80,6 +87,7 @@ public class AdventurerPathProgram
         return new Adventurer();
     }
 
+    // Helper method used to parse directions, get distance from the end position, and report that to the user
     private static void runAdventurerPath(Adventurer user)
     {
         Console.WriteLine("\nPlease enter your directions:");
@@ -96,6 +104,7 @@ public class AdventurerPathProgram
         }
     }
 
+    // Helper method to determine if user would like to try another path or quit the application
     private static bool continueDialogue() 
     {
         Console.WriteLine("\nWould you like to enter another path? If so, type 'Y', if not enter 'N':");
@@ -115,6 +124,7 @@ public class AdventurerPathProgram
         }
     }
 
+    // Processor for all of the prior helper methods
     static void Main(string[] args)
     {
         Adventurer user = initializeUser();

@@ -13,4 +13,3 @@ C:\Users\Max\OneDrive\Desktop\Personal Projects\Yahara-Software\AdventurerPath\o
 C:\Users\Max\OneDrive\Desktop\Personal Projects\Yahara-Software\AdventurerPath\obj\Debug\net10.0\AdventurerPath.pdb
 C:\Users\Max\OneDrive\Desktop\Personal Projects\Yahara-Software\AdventurerPath\obj\Debug\net10.0\AdventurerPath.genruntimeconfig.cache
 C:\Users\Max\OneDrive\Desktop\Personal Projects\Yahara-Software\AdventurerPath\obj\Debug\net10.0\ref\AdventurerPath.dll
-C:\Users\Max\OneDrive\Desktop\Personal Projects\Yahara-Software\AdventurerPath\obj\Debug\net10.0\Adventur.C1605A51.Up2Date
